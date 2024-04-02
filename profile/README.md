@@ -1,6 +1,6 @@
 # IZZI
 
-![hello seal](./hello%20seal%20contours.png)
+![hello seal](./profile/hello%20seal%20contours.png)
 
 Official repository for all things related to Toolib's IZZI project.
 
